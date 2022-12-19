@@ -19,6 +19,5 @@ version = "4.47.0"
 
 provider "aws" {
   # Configuration options
-  profile = "default"
-  region = "us-east-1"
+   region = "us-east-1"
 }
